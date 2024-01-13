@@ -5,3 +5,5 @@ misc.py
 ffmpeg
 logs/
 _pycache_/
+.gitattributes
+.gitignore
